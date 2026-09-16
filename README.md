@@ -76,4 +76,4 @@ For China Southern, Hainan and ANA, over half of review content falls into Topic
 - `images/`: charts referenced above
 
 ---
-*AI assistance disclosure: Gemini was used to help diagnose Python errors and suggest code improvements. All analysis, interpretation and conclusions are the author's own.*
+
